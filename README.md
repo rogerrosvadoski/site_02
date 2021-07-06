@@ -1,0 +1,1 @@
+Esse é um projeto de um site simples, com a função de mudar a cor de fundo do site. O usuário pode escolher a cor que quiser ou trocar para uma aleatória.
